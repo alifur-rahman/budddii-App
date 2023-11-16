@@ -1,0 +1,253 @@
+@media all and (max-width:1200px) {
+  
+    .baterry-progress::before {
+        left: 256px;
+    }
+    .baterry-progress::after {
+        left: 256px;
+    }
+    .progress-item2::before {
+        left: 425px;
+    }
+    .progress-item2::after {
+        left: 425px;
+    }
+    .progress-item3::before {
+        left: 596px;
+    }
+    .progress-item3::after {
+        left: 596px;
+    }
+    .main_contain.contain1::after, .main-inner {
+        top: 31%;
+        left: 2px;
+    }
+    .main_contain.contain1::after, .main-inner2 {
+        top: 73%;
+    }
+    .main_contain.contain1::after, .main-inner3 {
+        top: 115%;
+        left: 2px;
+    }
+    
+
+}
+@media all and (max-width: 1076px) {
+    
+   
+}
+
+
+
+
+@media all and (max-width: 991px) {
+    .baterry-progress::before {
+        left: 146px;
+        bottom: 71px;
+    }
+    .baterry-progress::after {
+        left: 146px;
+        top: 62px;
+       
+    }
+    .progress-item2::before {
+        left: 316px;
+        bottom:69px;
+    }
+    .progress-item2::after {
+        left: 316px;
+        top: 64px;
+    }
+    .progress-item3::before {
+        left: 486px;
+        bottom:68px;
+    }
+    .progress-item3::after {
+        left: 486px;
+        top: 65px;
+    }
+    .progress {
+        height: 45px;
+    }
+    .progress-bar {
+        height:30px;
+        margin:7px 0 7px 0;
+    }
+    .flavor-bar img {
+        width: 100%;
+        height: 15px;
+    }
+    
+   
+
+}
+
+
+
+
+
+@media all and (max-width: 767px) {
+    .flavor-content {
+        max-width: 305px;
+        margin: auto;
+    }
+    .baterry-progress::before {
+        left: 55px;
+        width: 13%;
+    }
+    .baterry-progress::after {
+        left: 55px;
+        width: 13%;
+    }
+    .progress-item2::before {
+        left: 224px;
+        bottom: 70px;
+        width: 13%;
+    }
+    .progress-item2::after {
+        left: 224px;
+        width: 13%;
+    }
+    .progress-item3::before {
+        left: 394px;
+        bottom: 68px;
+        width: 13%;
+    }
+    .progress-item3::after {
+        left: 394px;
+        bottom: 68px;
+        width: 13%;
+    }
+    .match-contain {
+        padding-bottom: 20px;
+    }
+    .match-title {
+        text-align: center;
+        padding-bottom: 10px;
+        max-width: 160px;
+        margin: auto;
+    }
+    .main_contain.contain1::after, .main-inner {
+        top: 27%;
+        left: 2px;
+    }
+    .main_contain.contain1::after, .main-inner2 {
+        top: 64%;
+        left: 2px;
+    }
+    .main_contain.contain1::after, .main-inner3 {
+        top: 100%;
+        left: 2px;
+    }
+    .pine-contnent {
+        text-align: center;
+        max-width: 345px;
+        margin: auto;
+    }
+    .compability {
+        text-align: center;
+        padding: 25px 0 60px 0;
+    }
+}
+
+
+
+@media all and (max-width: 576px) {
+
+    .baterry-progress::before {
+        left:30px;
+    }
+    .baterry-progress::after {
+        left: 30px;
+    }
+    .progress-item2::before {
+        left: 200px;
+       
+    }
+    .progress-item2::after {
+        left: 200px;
+    }
+    .progress-item3::before {
+        left: 370px;
+        bottom: 68px;
+        width: 13%;
+    }
+    .progress-item3::after {
+        left: 370px;
+        bottom: 68px;
+        width: 13%;
+    }
+    .match-contain {
+        padding-bottom: 20px;
+    }
+    .main_contain.contain1::after, .main-inner2 {
+        top: 69%;
+    }
+    .main_contain.contain1::after, .main-inner3 {
+        top: 104%;
+    }
+
+    
+
+}
+
+@media all and (max-width: 480px) {
+    .baterry-progress {
+        grid-gap: 20px;
+    }
+    .baterry-progress::before {
+        left: 0px;
+        width: 20%;
+    }
+    .baterry-progress::after {
+        left: 0px;
+        width: 20%;
+        top: 61px;
+    }
+    .progress-item2::before {
+        left: 120px;
+        width: 20%;
+        bottom: 69px;
+    }
+    .progress-item2::after {
+        left: 120px;
+        width: 20%;
+        top: 63px;
+    }
+    .progress-item3::before {
+        left: 240px;
+        bottom: 68px;
+        width: 20%;
+    }
+    .progress-item3::after {
+        left: 240px;
+        top: 64px;
+        width: 20%;
+    }
+    .match-title {
+        max-width: 160px;
+        margin: auto;
+    }
+    .main_contain.contain1::after, .main-inner {
+        top: 31%;
+        left: 2px;
+    }
+    .main_contain.contain1::after, .main-inner2 {
+        top: 68%;
+    }
+    .main_contain.contain1::after, .main-inner3 {
+        top:104%;
+    }
+    .pine-title h1 {
+        color: #fff;
+        font-size: 24px;
+    }
+   
+
+
+}
+@media all and (max-width:320px) {
+
+
+
+}
