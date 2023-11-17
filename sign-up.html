@@ -46,11 +46,14 @@
               </div>
               <div class="single__input">
                 <input
-                  type="date"
-                  id="birthday"
-                  name="birthday"
-                  placeholder="Birthday" required
-                />
+                type="text"
+                id="birthday"
+                name="birthday"
+                placeholder="Birthday"
+                onfocus="if (this.value === '') { this.type='date'; }"
+                onblur="formatDate(this,'text')"
+                required
+              />
               </div>
               <div class="single__input">
                 <input
@@ -91,6 +94,7 @@
     <script src="assets/js/jquery.min.js"></script>
     <!---------bootstrap js----------->
     <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/scripts.js"></script>
    
    
 </body>
